@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Production-grade memory-efficient model for 90%+ apnea detection accuracy.
+Production-grade memory-efficient model for apnea detection accuracy.
 Optimized for Tesla P100 16GB GPU with comprehensive validation and error handling.
 
 Features:
