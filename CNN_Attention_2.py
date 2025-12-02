@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-Memory-efficient high-performance model for 90%+ apnea detection accuracy.
+Memory-efficient high-performance model for sleep apnea detection.
 Includes full preprocessing pipeline from the paper.
-Optimized for Tesla P100 16GB GPU with advanced techniques.
 """
 !pip install wfdb
 import argparse
