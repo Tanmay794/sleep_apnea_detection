@@ -1,7 +1,7 @@
 # Sleep Apnea Detection Using Deep Learning: From Mamba SSMs to Multi-Modal CNNs
 ## Project Report
 
-**Your Name**: Mannan Gupta, Migul Shyamalen, Prerit Rathi, Tanmay Chowdhary
+**Name**: Mannan Gupta, Migul Shyamalen, Prerit Rathi, Tanmay Chowdhary
 **Course**: Deep Learning
 
 ---
