@@ -2,6 +2,7 @@
 ## Project Report
 
 **Name**: Mannan Gupta, Migul Shyamalen, Prerit Rathi, Tanmay Chowdhary
+
 **Course**: Deep Learning
 
 ---
